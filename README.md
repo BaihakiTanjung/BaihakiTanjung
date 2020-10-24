@@ -7,7 +7,7 @@
 
 ### About me:
 
-- 🔭 I’m currently working for a Web Developer based startup company in Tangerang, Indonesia
+- 🔭 I’m currently working for a Web Developer based company in Tangerang, Indonesia
 - 🌱 I’m currently learning Nuxt, Tailwind and Sass
 - 👯 I’m looking to collaborate on any kind of web dev
 - 🤔 I’m looking for help with any kind of web dev
