@@ -7,13 +7,13 @@
 
 ### About me:
 
-- 🔭 I’m currently working for a Software Engineering based company in Tangerang, Indonesia
-- 🌱 I’m currently learning Nuxt, Tailwind and Scss
-- 👯 I’m looking to collaborate on any kind of web dev
-- 🤔 I’m looking for help with any kind of web dev
-- 💬 Talk to me about game, anime, movies or books
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: Never give up!!
+- 🔭  I’m currently working for a Software Engineering based company in Tangerang, Indonesia
+- 🌱  I’m currently learning Nuxt, Tailwind and Scss
+- 👯  I’m looking to collaborate on any kind of web dev
+- 🤔  I’m looking for help with any kind of web dev
+- 💬  Talk to me about game, anime, movies or books
+- 😄  Pronouns: He/His/Him
+- ⚡  Fun fact: Never give up!!
 ### Things i code with:
 
 <p>
